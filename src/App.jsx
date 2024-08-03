@@ -2,7 +2,7 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import About from "./components/About"
 
-
+//this is the file for all component collect together
 
 const App = () => {
   return (
